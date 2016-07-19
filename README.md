@@ -2,6 +2,7 @@
 ### Hello Meitu!
 
 Master修改
+Master修改2
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
