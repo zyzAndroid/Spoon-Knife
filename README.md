@@ -1,10 +1,8 @@
 ### Well hello there!
 ### Hello Meitu!
 
-<<<<<<< HEAD
-分支清空
-=======
 master清空
+
 >>>>>>> 605b9e1c00c7f6362aa0aa3d447d2ec4aec19bff
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
