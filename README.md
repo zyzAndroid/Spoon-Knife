@@ -1,8 +1,7 @@
 ### Well hello there!
 ### Hello Meitu!
-Master修改
 
-测试1
+master清空
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
